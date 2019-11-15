@@ -1,0 +1,1 @@
+void log_2(double *invec, int n);
